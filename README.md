@@ -50,7 +50,7 @@
 
 <p align="left">
   <a href="https://tryhackme.com/p/AphroSec" target="_blank">    
-    <img src="https://tryhackme-badges.s3.amazonaws.com/AphroSec.png" alt="TryHackMe Badge" />
+    <img src="https://tryhackme-images.s3.amazonaws.com/user-avatars/67c2e8585806cdb71d040476-1778933145532" alt="TryHackMe Badge" />
   </a>
 </p>
 
