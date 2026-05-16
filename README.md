@@ -1,18 +1,20 @@
 <h1 align="center">✨ 🎀 sudo cat /etc/aphrodite_core 💻 ✨</h1>
-<h3 align="center">Cybersecurity Student @ FSAC | Offensive Security Enthusiast @ 1337 (42 Network) | Aspiring Pentester ⚡️🛜</h3>
+<h3 align="center">💝 Cybersecurity Student @ FSAC | Offensive Security Enthusiast @ 1337 (42 Network) | Aspiring Pentester ⚡️🛜</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=issame01&label=Simps%20Observed&color=ff69b4&style=flat" alt="" /> 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=issame01&label=Simps%20Observed&color=ff69b4&style=flat" alt="Profile Views" /> 
 </p>
 
-<a href="https://tryhackme.com/p/AphroSec" target="_blank">    
-  <img src="https://tryhackme-badges.s3.amazonaws.com/AphroSec.png" alt="TryHackMe Badge" />
-</a>
+---
 
-- 💬 **Consult the Oracle about:** 
-  - Penetration Testing • Vulnerability Assessment • Linux • Python (langage de programmation) • CTF Challenges / Ethical Hacking
+### 🏛️ The Oracle's Terminal
 
-- 📫 **Send a prayer/packet to:** **hadriasouad2@gmail.com** (No spam or Zeus will smite you)
+- 🔮 **Consult the Oracle about:** 
+  - `Penetration Testing` & `Ethical Hacking` (Seducing my way past firewalls 💋)
+  - `Linux` & `Python` (Writing scripts cleaner than Artemis's arrows 🏹)
+  - `CTF Challenges` (Stealing flags from Ares like it's easy)
+
+- 📫 **Send a prayer/packet to:** **hadriasouad2@gmail.com** (No spam or Zeus will smite your network)
 
 ---
 
@@ -23,7 +25,7 @@
 
 ---
 
-<h3 align="left">🔮 Weapons of Choice & Divine Tools:</h3>
+<h3 align="left">🌸 Weapons of Choice & Divine Tools:</h3>
 <p align="left"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -43,9 +45,15 @@
 
 ---
 
-### 🏛️ Conquests in Cyber Warfare (TryHackMe)
+### 🕊️ Conquests in Cyber Warfare (TryHackMe)
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/AphroSec.png)
+<p align="left">
+  <a href="https://tryhackme.com/p/AphroSec" target="_blank">    
+    <img src="https://tryhackme-badges.s3.amazonaws.com/AphroSec.png" alt="TryHackMe Badge" />
+  </a>
+</p>
 
 ### 🗺️ Mortals tracking my coordinates:
-<a href="http://s01.flagcounter.com/more/Uw4xm"><img src="https://s01.flagcounter.com/countxl/Uw4xm/bg_000000/txt_FFFFFF/border_FFFFFF/columns_8/maxflags_80/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<p align="left">
+  <a href="http://s01.flagcounter.com/more/Uw4xm"><img src="https://s01.flagcounter.com/countxl/Uw4xm/bg_000000/txt_FFFFFF/border_FFFFFF/columns_8/maxflags_80/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+</p>
