@@ -17,7 +17,10 @@
 <h3 align="left">✨ Let's be co-conspirators:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/souad-hadria-823195229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> 
+<a href="https://www.x.com/in/AphroSec/" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png" alt="LinkedIn" height="35" width="40" /></a> 
 </p>
+
+
 
 ---
 
