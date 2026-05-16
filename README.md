@@ -1,5 +1,5 @@
 <h1 align="center">✨ 🎀 sudo cat /etc/aphrodite_core 💻 ✨</h1>
-<h3 align="center">💝 Cybersecurity Student @ FSAC | Offensive Security Enthusiast @ 1337 (42 Network) | Aspiring Pentester ⚡️🛜</h3>
+<h3 align="center">💝 Cybersecurity Student @ FSAC | Offensive Security Enthusiast @ 1337 (42 Network) | Aspiring Pentester ⚡️</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=issame01&label=Simps%20Observed&color=ff69b4&style=flat" alt="Profile Views" /> 
